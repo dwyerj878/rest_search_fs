@@ -1,0 +1,9 @@
+python 3
+
+install dependencies
+
+pip3 install flask
+pip3 intall Flask-XML-RPC
+pip3 install xmltodict
+pip3 install dicttoxml
+
